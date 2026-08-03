@@ -1,3 +1,5 @@
+Aethelion-Motor-de-Morfog-nesis-Neuronal-Continua-CNDME
+
 El límite actual de los Modelos de Lenguaje Grande (LLMs) radica en su naturaleza estática: una vez entrenados, sus pesos se congelan. Si intentan aprender algo nuevo, sufren de olvido catastrófico. Además, adivinan el siguiente token basándose en probabilidad pura, lo que genera alucinaciones.
 
 Aethelion es una arquitectura fundacional que resuelve lo que la industria consideraba imposible: un LLM con topología líquida que aprende en tiempo real (durante la inferencia) sin retropropagación (backpropagation) y con cero alucinaciones matemáticas o lógicas.
